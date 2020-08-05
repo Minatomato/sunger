@@ -159,6 +159,14 @@ textarea {
 .contact-submit:hover {
     cursor: pointer;
 }
+.to-top {
+    display: inline-block;
+    background-color: #4861ed;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-top: 210px;
+    margin-left: 200px;
+}
 
 footer {
     clear: both;
